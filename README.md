@@ -1,253 +1,253 @@
-# ACUERDO DE PARTICIPACIÓN EN EL PROGRAMA PILOTO DE GANADERO.ORG
+# GANADERO.ORG PILOT PROGRAM PARTICIPATION AND LICENSE AGREEMENT
 
-**Versión 1.2 — 20 de noviembre de 2026**
+**Version 2.0 — November 23, 2026**
 
-**Programa gratuito de investigación, desarrollo y pruebas**
+**Free Research, Development and Testing Program**
 
-## IDENTIFICACIÓN DE LAS PARTES
+## IDENTIFICATION OF THE PARTIES
 
-De una parte, **GANADERO.ORG**, proyecto tecnológico desarrollado por **Gredos AI Labs**, cuya entidad jurídica responsable es **DESERET LTD**, sociedad de responsabilidad limitada (*Private Limited Company*) constituida y registrada en Inglaterra y Gales, Reino Unido, con número de registro mercantil **17568247**, en adelante, «GANADERO».
+On the one hand, **GANADERO.ORG**, a technology project developed by **Gredos AI Labs**, whose legally responsible entity is **DESERET LTD**, a Private Limited Company incorporated and registered in England and Wales, United Kingdom, under company registration number **17568247**, hereinafter referred to as "OPEN GANADERO".
 
-De otra parte, la persona física o jurídica que se registra en la plataforma Ganadero.org, directamente o mediante representante debidamente autorizado, en adelante, «EL PARTICIPANTE».
+On the other hand, the individual or legal entity registering on the Ganadero.org platform, directly or through a duly authorized representative, hereinafter referred to as "THE PARTICIPANT".
 
-Ambas partes acuerdan las siguientes condiciones:
+Both parties agree to the following terms and conditions:
 
-### 1. Objeto y naturaleza experimental
+### 1. Purpose and Experimental Nature
 
-GANADERO es un proyecto de investigación y desarrollo tecnológico cuyo objetivo es ayudar a los ganaderos españoles mediante la creación de aplicaciones móviles, un portal web y un agente de inteligencia artificial para facilitar la gestión de explotaciones ganaderas.
+GANADERO is a technology research and development project aimed at supporting Spanish livestock farmers through the creation of mobile applications, a web portal, and an artificial intelligence agent to facilitate livestock farm management.
 
-EL PARTICIPANTE reconoce que GANADERO se encuentra en fase experimental de desarrollo y pruebas (*beta*) y que no constituye un producto comercial terminado.
+THE PARTICIPANT acknowledges that GANADERO is currently in an experimental development and testing phase (beta) and does not constitute a finished commercial product.
 
-La participación tiene como finalidad evaluar las funcionalidades, identificar problemas, recoger sugerencias y contribuir a la evolución del proyecto hacia un futuro producto comercial.
+Participation is intended to evaluate functionalities, identify issues, collect suggestions, and contribute to the project's development toward a future commercial product.
 
-### 2. Gratuidad del programa piloto
+### 2. Free Participation in the Pilot Program
 
-La participación en el programa piloto es completamente gratuita.
+Participation in the pilot program is completely free of charge.
 
-GANADERO asumirá los costes propios de desarrollo, mantenimiento y evolución tecnológica del producto, sin repercutirlos a EL PARTICIPANTE durante el período gratuito.
+GANADERO will bear its own product development, maintenance, and technological improvement costs without passing them on to THE PARTICIPANT during the free testing period.
 
-No se exigirá ningún pago, cuota de inscripción, licencia ni suscripción para participar en las pruebas.
+No payment, registration fee, license fee, or subscription will be required to participate in the testing program.
 
-Los gastos propios de conexión a Internet, dispositivos u otros recursos utilizados voluntariamente por EL PARTICIPANTE serán de su cuenta.
+Any costs related to Internet connectivity, devices, or other resources voluntarily used by THE PARTICIPANT shall be borne by THE PARTICIPANT.
 
-### 3. Duración del período de pruebas
+### 3. Duration of the Testing Period
 
-El período inicial de pruebas será de **7 días naturales**, contados desde la activación del acceso.
+The initial testing period shall be **7 calendar days**, starting from the activation of access.
 
-GANADERO podrá ampliar gratuitamente este período por el tiempo que considere necesario.
+GANADERO may extend this period free of charge for as long as it considers necessary.
 
-GANADERO se reserva el derecho de modificar, suspender o finalizar el programa piloto, así como de retirar el acceso de cualquier participante por motivos técnicos, operativos, de seguridad o de desarrollo del producto.
+GANADERO reserves the right to modify, suspend, or terminate the pilot program, as well as to withdraw access from any participant for technical, operational, security, or product development reasons.
 
-EL PARTICIPANTE podrá abandonar el programa en cualquier momento y sin penalización.
+THE PARTICIPANT may leave the program at any time without penalty.
 
-La finalización del acceso no generará por sí misma derecho a indemnización por la pérdida de acceso a funcionalidades experimentales, sin perjuicio de los derechos legalmente irrenunciables.
+Termination of access shall not, in itself, create any entitlement to compensation for the loss of access to experimental functionalities, without prejudice to any legally non-waivable rights.
 
-### 4. Estado del producto y aceptación de riesgos
+### 4. Product Status and Acceptance of Risks
 
-EL PARTICIPANTE reconoce y acepta expresamente que:
+THE PARTICIPANT expressly acknowledges and accepts that:
 
-- GANADERO es un producto experimental que puede contener errores y funcionalidades incompletas.
-- No se garantiza la disponibilidad continua de la plataforma.
-- Pueden producirse interrupciones, fallos técnicos o períodos de indisponibilidad.
-- Las funcionalidades pueden modificarse, incorporarse o eliminarse durante el programa.
-- Pueden producirse pérdidas, alteraciones o inconsistencias de datos.
-- Las respuestas del agente de inteligencia artificial pueden ser incorrectas, incompletas o desactualizadas.
-- No se garantiza la continuidad del programa ni la futura comercialización del producto.
+- GANADERO is an experimental product that may contain errors and incomplete functionalities.
+- Continuous availability of the platform is not guaranteed.
+- Interruptions, technical failures, or periods of unavailability may occur.
+- Features may be modified, added, or removed during the program.
+- Data loss, alteration, or inconsistencies may occur.
+- Responses generated by the artificial intelligence agent may be incorrect, incomplete, or outdated.
+- Continuation of the program and future commercialization of the product are not guaranteed.
 
-EL PARTICIPANTE acepta utilizar la plataforma como herramienta experimental y complementaria, sin depender exclusivamente de ella para la gestión de su explotación.
+THE PARTICIPANT agrees to use the platform as an experimental and supplementary tool without relying exclusively on it for the management of their livestock operation.
 
-### 5. Colaboración y aportación de feedback
+### 5. Collaboration and Feedback
 
-EL PARTICIPANTE se compromete a colaborar de buena fe con el equipo de GANADERO, dentro de sus posibilidades y disponibilidad, mediante:
+THE PARTICIPANT agrees to collaborate in good faith with the GANADERO team, within their capabilities and availability, by providing:
 
-- Opiniones y valoraciones sobre el funcionamiento del producto.
-- Identificación y comunicación de errores o problemas técnicos.
-- Propuestas de mejoras y nuevas funcionalidades.
-- Sugerencias relacionadas con las necesidades reales de los ganaderos.
-- Participación razonable en pruebas, entrevistas o sesiones de evaluación.
+- Opinions and evaluations regarding product functionality.
+- Identification and reporting of errors or technical issues.
+- Proposals for improvements and new features.
+- Suggestions related to the actual needs of livestock farmers.
+- Reasonable participation in testing, interviews, or evaluation sessions.
 
-Esta colaboración será voluntaria, no remunerada y no implicará obligación de alcanzar resultados específicos.
+Such collaboration shall be voluntary, unpaid, and shall not imply any obligation to achieve specific results.
 
-GANADERO trabajará conjuntamente con los participantes seleccionados para comprender sus necesidades y mejorar progresivamente el producto, sin obligación de incorporar todas las sugerencias recibidas.
+GANADERO will work together with selected participants to understand their needs and progressively improve the product, without being obligated to implement every suggestion received.
 
-### 6. Responsabilidad sobre la gestión ganadera
+### 6. Responsibility for Livestock Management
 
-EL PARTICIPANTE conserva la responsabilidad sobre las decisiones relacionadas con su explotación, incluidos los aspectos sanitarios, veterinarios, reproductivos, económicos, administrativos y de bienestar animal.
+THE PARTICIPANT retains responsibility for decisions concerning their livestock operation, including animal health, veterinary care, reproduction, financial matters, administrative procedures, and animal welfare.
 
-GANADERO no sustituye el asesoramiento veterinario profesional ni los registros, comunicaciones o procedimientos oficiales legalmente exigidos.
+GANADERO does not replace professional veterinary advice or legally required official records, notifications, or procedures.
 
-EL PARTICIPANTE deberá verificar la información antes de utilizarla para tomar decisiones y mantener sistemas independientes para la conservación de sus registros esenciales.
+THE PARTICIPANT must verify information before using it to make decisions and maintain independent systems for preserving essential records.
 
-Las recomendaciones generadas mediante inteligencia artificial deberán ser revisadas por una persona competente antes de su aplicación.
+Recommendations generated through artificial intelligence must be reviewed by a competent person before implementation.
 
-### 7. Limitación de garantías y responsabilidad
+### 7. Limitation of Warranties and Liability
 
-En la máxima medida permitida por la legislación aplicable, GANADERO ofrece la plataforma experimental en su estado actual, sin compromisos contractuales de disponibilidad continua, precisión absoluta, idoneidad para una finalidad concreta o ausencia total de errores.
+To the maximum extent permitted by applicable law, GANADERO provides the experimental platform in its current condition, without contractual commitments regarding continuous availability, absolute accuracy, fitness for a particular purpose, or complete absence of errors.
 
-GANADERO no asumirá responsabilidad contractual por las consecuencias inherentes al uso experimental que hayan sido expresamente advertidas y aceptadas por EL PARTICIPANTE, siempre que no deriven de incumplimientos legalmente imputables a GANADERO.
+GANADERO shall not assume contractual liability for consequences inherent to experimental use that have been expressly disclosed to and accepted by THE PARTICIPANT, provided that such consequences do not arise from legally attributable breaches by GANADERO.
 
-En particular, dentro de los límites legalmente permitidos, se excluye la responsabilidad por lucro cesante, pérdida de oportunidades comerciales y daños indirectos derivados exclusivamente de las limitaciones ordinarias del programa piloto.
+In particular, within legally permitted limits, liability for lost profits, lost business opportunities, and indirect damages arising exclusively from the ordinary limitations of the pilot program is excluded.
 
-**Estas limitaciones no serán aplicables cuando exista dolo, responsabilidad que no pueda excluirse legalmente, incumplimiento de obligaciones imperativas o cualquier otro supuesto en que la ley impida limitar la responsabilidad.**
+**These limitations shall not apply in cases of intentional misconduct, liability that cannot legally be excluded, breach of mandatory legal obligations, or any other circumstances in which applicable law prohibits limitation of liability.**
 
-### 8. Conservación de datos y copias de seguridad
+### 8. Data Retention and Backups
 
-EL PARTICIPANTE reconoce que la plataforma no constituye un servicio contratado de archivo permanente ni un repositorio oficial de información ganadera.
+THE PARTICIPANT acknowledges that the platform does not constitute a contracted permanent archiving service or an official livestock information repository.
 
-Se compromete a conservar copias independientes de los datos necesarios para la actividad de su explotación.
+THE PARTICIPANT agrees to maintain independent copies of data necessary for the operation of their livestock business.
 
-GANADERO podrá realizar operaciones de mantenimiento, migración, modificación o eliminación de datos de prueba, conforme a las condiciones comunicadas y las obligaciones legales aplicables.
+GANADERO may perform maintenance, migration, modification, or deletion of test data in accordance with communicated conditions and applicable legal obligations.
 
-La ausencia de garantías comerciales de conservación no exime a GANADERO de aplicar las medidas de seguridad exigibles ni de cumplir sus obligaciones de protección de datos.
+The absence of commercial data retention guarantees does not exempt GANADERO from implementing legally required security measures or complying with its data protection obligations.
 
-### 9. Inteligencia artificial y supervisión humana
+### 9. Artificial Intelligence and Human Oversight
 
-EL PARTICIPANTE reconoce que los sistemas de inteligencia artificial pueden generar información inexacta y que sus resultados requieren supervisión humana.
+THE PARTICIPANT acknowledges that artificial intelligence systems may generate inaccurate information and that their outputs require human oversight.
 
-GANADERO no presta mediante el agente de IA servicios veterinarios, diagnósticos clínicos ni asesoramiento jurídico o administrativo profesional.
+Through its AI agent, GANADERO does not provide veterinary services, clinical diagnoses, or professional legal or administrative advice.
 
-Durante el programa piloto, el agente de IA no ejecutará de forma autónoma decisiones ni acciones que puedan afectar directamente a la salud, alimentación, reproducción, tratamiento veterinario, bienestar o seguridad de los animales.
+During the pilot program, the AI agent shall not autonomously execute decisions or actions that could directly affect animal health, feeding, reproduction, veterinary treatment, welfare, or safety.
 
-Tampoco se permitirá que el agente de IA presente o ejecute automáticamente declaraciones oficiales u otras actuaciones con consecuencias jurídicas o materiales sin los controles y autorizaciones correspondientes.
+The AI agent shall also not be permitted to automatically submit or execute official declarations or other actions with legal or material consequences without the appropriate controls and authorizations.
 
-### 10. Obligaciones del participante
+### 10. Participant Obligations
 
-EL PARTICIPANTE se compromete a:
+THE PARTICIPANT agrees to:
 
-- Utilizar el sistema de buena fe y conforme a la legislación aplicable.
-- Colaborar razonablemente con el equipo de GANADERO aportando opiniones, sugerencias y comunicaciones de errores.
-- No introducir datos personales o información confidencial de terceros sin una base jurídica adecuada.
-- Proteger sus credenciales de acceso.
-- No intentar acceder a información de otras explotaciones.
-- No utilizar el sistema como sustituto de sus registros oficiales.
-- Informar a GANADERO cuando detecte vulnerabilidades o problemas de seguridad.
+- Use the system in good faith and in compliance with applicable laws.
+- Reasonably collaborate with the GANADERO team by providing opinions, suggestions, and error reports.
+- Refrain from entering third-party personal data or confidential information without an appropriate legal basis.
+- Protect their access credentials.
+- Refrain from attempting to access information belonging to other livestock operations.
+- Refrain from using the system as a substitute for official records.
+- Inform GANADERO upon discovering vulnerabilities or security issues.
 
-### 11. Propiedad intelectual y ausencia de participación societaria
+### 11. Intellectual Property and No Equity Participation
 
-Todos los derechos sobre el software, los algoritmos, la arquitectura tecnológica y los desarrollos de GANADERO permanecerán en sus respectivos titulares.
+All rights to the software, algorithms, technological architecture, and developments of GANADERO shall remain with their respective rights holders.
 
-La participación en el programa piloto no otorga a EL PARTICIPANTE acciones, participaciones societarias, derechos sobre beneficios, propiedad del software ni compensaciones económicas.
+Participation in the pilot program does not grant THE PARTICIPANT shares, equity interests, profit-sharing rights, software ownership, or financial compensation.
 
-EL PARTICIPANTE autoriza a GANADERO a utilizar gratuitamente las ideas, sugerencias y propuestas que comunique voluntariamente para el desarrollo, mejora y futura comercialización de la plataforma, en la medida en que tenga derecho a conceder dicha autorización.
+THE PARTICIPANT authorizes GANADERO to use, free of charge, ideas, suggestions, and proposals voluntarily communicated for the development, improvement, and future commercialization of the platform, to the extent THE PARTICIPANT has the right to grant such authorization.
 
-Esta autorización no implica la transmisión de derechos sobre datos propios de la explotación ni sobre información confidencial.
+This authorization does not imply the transfer of rights over the livestock operation's own data or confidential information.
 
-### 12. Protección de datos y seguridad
+### 12. Data Protection and Security
 
-Las partes cumplirán la normativa aplicable de protección de datos personales, incluido el Reglamento General de Protección de Datos (RGPD) y la Ley Orgánica 3/2018.
+Both parties shall comply with applicable personal data protection legislation, including the General Data Protection Regulation (GDPR) and Spanish Organic Law 3/2018.
 
-GANADERO identificará al responsable del tratamiento y facilitará la información de privacidad correspondiente antes de recoger datos personales.
+GANADERO shall identify the data controller and provide the relevant privacy information before collecting personal data.
 
-Cuando GANADERO trate datos personales por cuenta de EL PARTICIPANTE, las partes formalizarán, cuando proceda, el correspondiente acuerdo de encargo del tratamiento.
+Where GANADERO processes personal data on behalf of THE PARTICIPANT, the parties shall enter into an appropriate data processing agreement when required.
 
-GANADERO aplicará medidas técnicas y organizativas adecuadas al riesgo y gestionará los incidentes de seguridad conforme a sus obligaciones legales.
+GANADERO shall implement technical and organizational measures appropriate to the risks involved and manage security incidents in accordance with its legal obligations.
 
-Ninguna disposición del presente acuerdo limitará los derechos de los interesados ni las responsabilidades establecidas por la normativa de protección de datos.
+Nothing in this Agreement shall limit the rights of data subjects or the responsibilities established under data protection legislation.
 
-### 13. Medidas adicionales de seguridad durante el programa piloto
+### 13. Additional Security Measures During the Pilot Program
 
-**13.1. Utilización de datos de prueba**
+**13.1. Use of Test Data**
 
-Durante el programa piloto se priorizará la utilización de datos ficticios, sintéticos o debidamente anonimizados, siempre que sea técnicamente posible y compatible con los objetivos de las pruebas.
+During the pilot program, the use of fictitious, synthetic, or properly anonymized data shall be prioritized whenever technically feasible and compatible with testing objectives.
 
-Cuando resulte necesario utilizar datos reales de la explotación, EL PARTICIPANTE procurará limitar la información introducida a la estrictamente necesaria para las pruebas.
+Where the use of actual livestock operation data is necessary, THE PARTICIPANT shall endeavor to limit the information entered to what is strictly necessary for testing.
 
-La utilización de datos personales reales estará sujeta a las condiciones de privacidad, seguridad y protección de datos aplicables.
+The use of real personal data shall be subject to applicable privacy, security, and data protection requirements.
 
-**13.2. Registro de aceptación electrónica**
+**13.2. Electronic Acceptance Records**
 
-Antes de acceder al programa piloto, EL PARTICIPANTE deberá aceptar expresamente las condiciones del presente acuerdo durante el proceso de registro.
+Before accessing the pilot program, THE PARTICIPANT must expressly accept the terms of this Agreement during registration.
 
-GANADERO podrá conservar, conforme a la normativa de protección de datos, evidencias de dicha aceptación, incluyendo:
+GANADERO may retain evidence of such acceptance, in accordance with data protection legislation, including:
 
-- Identificación del participante.
-- Fecha y hora de aceptación.
-- Versión del acuerdo aceptado.
-- Medio utilizado para prestar la aceptación.
-- Registros técnicos pertinentes, cuando corresponda.
+- Participant identification.
+- Date and time of acceptance.
+- Version of the Agreement accepted.
+- Method used to provide acceptance.
+- Relevant technical records, where applicable.
 
-**13.3. Incidentes y suspensión preventiva**
+**13.3. Incidents and Preventive Suspension**
 
-GANADERO podrá suspender temporalmente funcionalidades, accesos o procesos experimentales cuando detecte riesgos para la seguridad, integridad de los datos, bienestar animal o cumplimiento normativo.
+GANADERO may temporarily suspend features, access, or experimental processes when risks to security, data integrity, animal welfare, or regulatory compliance are identified.
 
-Las partes colaborarán razonablemente para comunicar y analizar los incidentes detectados, sin perjuicio de las obligaciones legales de notificación que correspondan.
+Both parties shall reasonably cooperate in reporting and analyzing identified incidents, without prejudice to applicable legal notification obligations.
 
-### 14. Confidencialidad
+### 14. Confidentiality
 
-Ambas partes mantendrán la confidencialidad de la información no pública obtenida durante las pruebas, salvo autorización, obligación legal o cuando la información haya pasado legítimamente al dominio público.
+Both parties shall maintain the confidentiality of non-public information obtained during testing, except where disclosure is authorized, legally required, or the information has lawfully entered the public domain.
 
-GANADERO podrá utilizar resultados agregados o debidamente anonimizados del programa para fines de investigación, desarrollo y mejora tecnológica.
+GANADERO may use aggregated or properly anonymized program results for research, development, and technological improvement purposes.
 
-### 15. Futura comercialización
+### 15. Future Commercialization
 
-EL PARTICIPANTE reconoce que GANADERO es actualmente un proyecto de investigación y desarrollo sin contratación comercial de pago disponible.
+THE PARTICIPANT acknowledges that GANADERO is currently a research and development project with no paid commercial service available.
 
-En el futuro, GANADERO podrá ofrecer sus servicios mediante suscripciones mensuales o anuales.
+In the future, GANADERO may offer its services through monthly or annual subscriptions.
 
-La participación gratuita en el programa piloto no genera derecho a gratuidad permanente, descuentos ni condiciones comerciales preferentes.
+Free participation in the pilot program does not create any entitlement to permanent free access, discounts, or preferential commercial conditions.
 
-**Ninguna suscripción de pago se activará automáticamente.** Cualquier contratación futura requerirá la aceptación expresa de EL PARTICIPANTE de las tarifas y condiciones comerciales vigentes.
+**No paid subscription shall be activated automatically.** Any future subscription shall require THE PARTICIPANT's express acceptance of the applicable prices and commercial terms.
 
-### 16. Reclamaciones y responsabilidad por uso indebido
+### 16. Claims and Liability for Misuse
 
-EL PARTICIPANTE responderá, conforme a la legislación aplicable, de los daños que cause a GANADERO o a terceros mediante un uso ilícito, fraudulento o contrario a las obligaciones asumidas en este acuerdo, siempre que le sean legalmente imputables.
+THE PARTICIPANT shall be liable, in accordance with applicable law, for damages caused to GANADERO or third parties through unlawful, fraudulent use or use contrary to the obligations assumed under this Agreement, provided that such damages are legally attributable to THE PARTICIPANT.
 
-Cada parte responderá de sus propios actos e incumplimientos en los términos previstos por la ley.
+Each party shall be responsible for its own actions and breaches in accordance with the law.
 
-### 17. Legislación aplicable y separabilidad
+### 17. Governing Law and Severability
 
-El presente acuerdo se regirá por la legislación española, sin perjuicio de las normas imperativas que resulten aplicables.
+This Agreement shall be governed by Spanish law, without prejudice to any applicable mandatory legal provisions.
 
-Cualquier controversia se someterá a los juzgados y tribunales que sean competentes conforme a la legislación vigente.
+Any dispute shall be submitted to the courts and tribunals having jurisdiction under applicable law.
 
-Si alguna disposición fuera declarada inválida o inaplicable, las restantes conservarán su eficacia siempre que el acuerdo pueda subsistir legalmente sin aquella.
+If any provision is declared invalid or unenforceable, the remaining provisions shall remain effective, provided that the Agreement can legally continue without the affected provision.
 
-### 18. Aceptación electrónica y entrada en vigor
+### 18. Electronic Acceptance and Entry into Force
 
-**18.1. Aceptación mediante registro**
+**18.1. Acceptance Through Registration**
 
-El presente acuerdo se formalizará electrónicamente durante el proceso de registro en Ganadero.org, sin necesidad de firma manuscrita.
+This Agreement shall be concluded electronically during the registration process on Ganadero.org, without requiring a handwritten signature.
 
-Antes de completar el registro, EL PARTICIPANTE tendrá acceso al texto íntegro del acuerdo y deberá manifestar expresamente su aceptación mediante la correspondiente casilla de confirmación.
+Before completing registration, THE PARTICIPANT shall have access to the full text of this Agreement and must expressly indicate acceptance by selecting the corresponding confirmation checkbox.
 
-**La creación de la cuenta, una vez prestada dicha aceptación, formalizará la adhesión al presente acuerdo.**
+**Account creation, following such acceptance, shall formalize THE PARTICIPANT's agreement to these terms.**
 
-**18.2. Inicio de utilización**
+**18.2. Commencement of Use**
 
-El acceso y utilización de la plataforma tras la aceptación electrónica estarán sujetos a las condiciones del presente acuerdo.
+Access to and use of the platform following electronic acceptance shall be subject to the terms of this Agreement.
 
-La utilización continuada de la plataforma no sustituirá la aceptación expresa cuando esta sea legalmente necesaria.
+Continued use of the platform shall not replace express acceptance where such acceptance is legally required.
 
-**18.3. Validez y prueba electrónica**
+**18.3. Validity and Electronic Evidence**
 
-GANADERO podrá conservar evidencias electrónicas de la aceptación, incluyendo identificador de usuario, fecha y hora, versión del acuerdo y registros técnicos pertinentes, respetando la normativa de protección de datos.
+GANADERO may retain electronic evidence of acceptance, including user identifier, date and time, Agreement version, and relevant technical records, in compliance with data protection legislation.
 
-La aceptación electrónica tendrá los efectos jurídicos que correspondan conforme a la legislación aplicable.
+Electronic acceptance shall have the legal effects provided under applicable law.
 
-**18.4. Modificaciones posteriores**
+**18.4. Subsequent Amendments**
 
-GANADERO podrá actualizar las condiciones del programa piloto.
+GANADERO may update the terms of the pilot program.
 
-Las modificaciones relevantes serán comunicadas al participante y, cuando resulte legalmente necesario, requerirán una nueva aceptación expresa antes de continuar utilizando la plataforma.
+Material changes shall be communicated to THE PARTICIPANT and, where legally required, shall require renewed express acceptance before continued use of the platform.
 
-**18.5. Declaración final**
+**18.5. Final Declaration**
 
-Al aceptar electrónicamente el presente acuerdo, EL PARTICIPANTE confirma haber tenido acceso a sus condiciones y comprender el carácter experimental y gratuito del servicio, sus riesgos técnicos, las limitaciones de responsabilidad legalmente admisibles y sus obligaciones como usuario.
+By electronically accepting this Agreement, THE PARTICIPANT confirms having had access to its terms and understanding the experimental and free nature of the service, its technical risks, the legally permissible limitations of liability, and their obligations as a user.
 
-**Fecha de entrada en vigor:** fecha de aceptación electrónica registrada por GANADERO.
+**Effective Date:** Date of electronic acceptance recorded by GANADERO.
 
 ---
 
 **GANADERO.ORG**
 
-Proyecto tecnológico desarrollado por Gredos AI Labs
+Technology project developed by Gredos AI Labs
 
-Entidad jurídica responsable: **DESERET LTD**
+Legal Entity: **DESERET LTD**
 
 Company Number: **17568247**
 
-País de registro: Reino Unido
+Country of Registration: United Kingdom
 
-Sitio web: https://www.ganadero.org
+Website: https://www.ganadero.org
 
-**Documento de aceptación electrónica. No requiere firma manuscrita.**
+**Electronic Acceptance Document. No handwritten signature required.**
